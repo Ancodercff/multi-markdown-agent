@@ -18,4 +18,4 @@ Edit the `idea.vmoptions` by <kbd>Configure</kbd> or <kbd>Help</kbd> -> <kbd>Edi
 
 Append the below line to the file in editor panel.
 
-`-javaagent:/absolute/path/to/jetbrains-agent.jar`
+`-javaagent:/absolute/path/to/multi-markdown-agent.jar`
